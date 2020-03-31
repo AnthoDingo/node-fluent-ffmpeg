@@ -1,5 +1,6 @@
-# Fluent ffmpeg-API for node.js [![Build Status](https://secure.travis-ci.org/fluent-ffmpeg/node-fluent-ffmpeg.svg?branch=master)](http://travis-ci.org/fluent-ffmpeg/node-fluent-ffmpeg)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffluent-ffmpeg%2Fnode-fluent-ffmpeg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffluent-ffmpeg%2Fnode-fluent-ffmpeg?ref=badge_shield)
+#### Original project and source code : https://github.com/fluent-ffmpeg/node-fluent-ffmpeg 
+
+# Fluent ffmpeg-API for node.js [![Build Status](https://travis-ci.com/AnthoDingo/node-fluent-ffmpeg.svg?branch=master&status=started)](http://travis-ci.org/AnthoDingo/node-fluent-ffmpeg)
 
 > **Fluent-ffmpeg is looking for new maintainers**
 > More details [on the wiki](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Looking-for-a-new-maintainer)
